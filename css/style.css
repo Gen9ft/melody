@@ -1,7 +1,7 @@
 @font-face {
   font-family: "Bebas Neue";
-  src: url("../fonts/BebasNeueRegular.woff2") format("woff2"),
-    url("../fonts/BebasNeueRegular.woff") format("woff");
+  src: url("./fonts/BebasNeueRegular.woff2") format("woff2"),
+    url("./fonts/BebasNeueRegular.woff") format("woff");
 
   font-display: swap;
 }
@@ -41,6 +41,7 @@
 }
 
 .navbar-link {
+  /*ссылки в меню*/
   text-decoration: none;
   color: #fff;
 }
