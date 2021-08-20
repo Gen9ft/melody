@@ -2,7 +2,8 @@
   font-family: "Bebas Neue";
   src: url("../fonts/BebasNeueRegular.woff2") format("woff2"),
     url("../fonts/BebasNeueRegular.woff") format("woff");
-
+  font-weight: normal;
+  font-style: normal;
   font-display: swap;
 }
 
@@ -112,14 +113,15 @@ path.current-floor {
 
 .main-title {
   margin: 0%;
-  font-family: "BebasNeueRegular", sans-serif;
+  font-family: "Bebas Neue", sans-serif;
   font-weight: normal;
+  color: #635854;
   font-size: 37px;
   line-height: 37px;
 }
 
 .counter {
-  font-family: "BebasNeueRegular", sans-serif;
+  font-family: "Bebas Neue", sans-serif;
   color: #635854;
   font-size: 124px;
   margin-top: 10px;
@@ -189,7 +191,7 @@ path.current-floor {
 }
 
 .modal-title {
-  font-family: "BebasNeueRegular", sans-serif;
+  font-family: "Bebas Neue", sans-serif;
   font-weight: normal;
   font-size: 24px;
   line-height: 29px;
