@@ -127,6 +127,12 @@ path.current-floor {
   margin-top: 10px;
 }
 
+.modal-counter {
+  color: rgb(0, 0, 0);
+  font-size: 24px;
+  margin-top: 10px;
+}
+
 .button-primary {
   background: #3596f5;
   border-radius: 6px;
