@@ -12,6 +12,7 @@ var viewFlatsButton = $('.view-flats');
    currentFloor=$(this).attr('data-floor');
   $('.counter').text(currentFloor);
   });
+
   
 viewFlatsButton.on('click',toggleModal);  
 floorPath.on('click',toggleModal);/*при клике на этаж вызывает окно */
